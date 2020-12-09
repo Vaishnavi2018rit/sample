@@ -51,7 +51,7 @@ public class Arraydupli {
         for( i=0;i<b.length;i++)
         {
             if(b[i]!=0)
-             System.out.println(b[i]+"\t");
+             System.out.println(b[i]);
         }
         
         
